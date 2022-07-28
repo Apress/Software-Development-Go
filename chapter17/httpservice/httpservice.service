@@ -1,0 +1,10 @@
+[Unit]
+Description=HTTP Server Application
+
+[Service]
+Restart=on-failure
+ExecStart=/usr/local/bin/httpservice
+KillSignal=SIGTERM
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,4 @@
+# Create config.toml using below and then ./vuls -config=/path/to/config.toml
+[servers.localhost]
+host = "localhost"
+port = "local"
