@@ -3,7 +3,7 @@
 This repository accompanies [*Software Development with Go*](https://www.link.springer.com/book/10.1007/978-1-4842-8731-6) by Nanik Tolaram (Apress, 2022).
 
 [comment]: #cover
-![Cover image](%isbn%.jpg)
+![Cover image](978-1-4842-8730-9.jpg)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
